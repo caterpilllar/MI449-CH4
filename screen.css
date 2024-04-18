@@ -31,6 +31,8 @@ a{
     display: grid;
     grid-template-columns: 1fr 3fr 1fr 1fr 1fr;
     padding: 50px 10px 50px 10px;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 
 .bio-pic{
